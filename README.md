@@ -28,7 +28,7 @@ Discord ID: aulide#9284
 >We have developed an interactive quantum hardware module which offers an easy introduction to comprehensive advanced quantum modules. Our main target is Computer science students with high-school knowledge of physics. Whereby, they will be given a gentle introduction into the world of Quantum Computing thus making the transition process easy for them. The initial topics are the basics of which have enough material for that so we mainly targeted the advanced topics and how to make it easier to learn them in an easy way.
 
 # Contents
-['Contents']('Quantum Mechanics for Computer Scientists-Q-world.pdf' 'Contents')
+<a href = "Quantum Mechanics for Computer Scientists-Q-world.pdf" target="_blank">Contents</a>
 
 # Quantum Error Correction
 Here we looked at quantum error correction in general, tupes of quantum errors, qarriers to quantum error correction, correction of phase errors and recommended further reading resources to expound on that
