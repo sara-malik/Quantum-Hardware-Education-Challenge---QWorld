@@ -31,7 +31,7 @@ Discord ID: aulide#9284
 <a href = "Quantum Mechanics for Computer Scientists-Q-world.pdf" target="_blank">Contents</a>
 
 # Quantum Error Correction
-Here we looked at quantum error correction in general, tupes of quantum errors, qarriers to quantum error correction, correction of phase errors and recommended further reading resources to expound on that
+Here we looked at quantum error correction in general, types of quantum errors, barriers to quantum error correction, correction of phase errors and recommended further reading resources to expound on that
 
 <a href="Quantum_Error_Correction.pdf" target="_blank">Quantum Error Correction Guide</a>
 
